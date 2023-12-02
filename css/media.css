@@ -1,0 +1,23 @@
+@media screen and (min-width: 1200px) {
+
+    header h1,
+    header h5 {
+        font-size: 3rem;
+    }
+
+    .container {
+        width: 75%;
+    }
+}
+
+@media (max-width: 768px) {
+    #about h3 {
+        margin-top: 3rem;
+    }
+}
+
+@media (max-width: 991px) {
+    #navbar-example ul li {
+        margin-bottom: 20px;
+    }
+}
